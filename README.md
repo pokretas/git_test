@@ -1,2 +1,3 @@
 # git_test
-First 
+My first github repo! ziomy
+Hi Hello
